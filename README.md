@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
