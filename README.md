@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
 ## Backtracking
@@ -36,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0047-permutations-ii) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
