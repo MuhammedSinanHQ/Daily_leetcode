@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
 ## Dynamic Programming
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0067-add-binary) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
