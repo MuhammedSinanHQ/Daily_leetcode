@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0067-add-binary) |
 ## Algorithm X
 |  |
