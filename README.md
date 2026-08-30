@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0036-valid-sudoku) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
