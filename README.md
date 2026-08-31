@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0067-add-binary) |
 ## Recursion
