@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0072-edit-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0072-edit-distance) |
 ## Recursion
 |  |
 | ------- |
