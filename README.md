@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0072-edit-distance) |
 ## Greedy
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
 ## Matrix
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MuhammedSinanHQ/Daily_leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
